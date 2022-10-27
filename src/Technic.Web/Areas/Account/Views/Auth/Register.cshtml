@@ -1,0 +1,44 @@
+﻿@model RegisterViewModel
+
+<main class="container">
+    <form asp-controller="Auth" asp-action="Register" method="post">
+        <input type="hidden" asp-for="ReturnUrl" />
+        <div class="auth-card m-auto rounded mt-4 p-4">
+            <div class="logo-wrap d-flex align-items-center h-100">
+            </div>
+            <span class="fs-4 text-center fw-bold d-flex justify-content-center mt-1 auth-header">Регистрация</span>
+            <div class="text-field text-field_floating-2 mt-4">
+                <input class="text-field__input p-3" asp-for="Email" type="text" id="email" name="email"
+                    placeholder="Почта">
+                <label class="text-field__label" for="login">Почта</label>
+            </div>
+            <div class="text-field text-field_floating-2">
+                <input class="text-field__input p-3" asp-for="Login" type="text" id="login" name="login"
+                    placeholder="Логин">
+                <label class="text-field__label" for="login">Логин</label>
+            </div>
+            <div class="text-field text-field_floating-2">
+                <input class="text-field__input p-3" asp-for="Password" type="password" id="password" name="password"
+                    placeholder="Пароль">
+                <label class="text-field__label" for="password">Пароль</label>
+            </div>
+            <div class="text-field text-field_floating-2">
+                <input class="text-field__input p-3" asp-for="ConfirmPassword" type="password" id="password" name="confirmpassword"
+                    placeholder="Пароль еще раз">
+                <label class="text-field__label" for="password">Пароль еще раз</label>
+            </div>
+            <div><span asp-validation-for="Email" style="color: red"></span></div>
+            <div><span asp-validation-for="Login" style="color: red"></span></div>
+            <div><span asp-validation-for="Password" style="color: red"></span></div>
+            <div><span asp-validation-for="ConfirmPassword" style="color: red"></span></div>
+            <div class="validation" asp-validation-summary="ModelOnly"></div>
+            <div class="mt-1">
+                <button class="w-100 btn btn-lg btn-primary mt-4 btn-auth" type="submit" asp-route-returnUrl="@Model.ReturnUrl">Зарегистрироваться</button>
+            </div>
+            <div class="mt-2 text-center text-light">
+                <span class="text-primary">Уже есть аккаунт?</span>
+                <a asp-action="Login" asp-controller="Auth" asp-area="Account" asp-route-returnUrl="@Model.ReturnUrl" class="link text-white">Войти</a>
+            </div>
+        </div>
+    </form>
+</main>

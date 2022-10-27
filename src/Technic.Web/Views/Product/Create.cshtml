@@ -1,0 +1,41 @@
+﻿@using Technic.Web.Models.Product
+@model CreateProductPageViewModel
+
+<div class="container">
+    <h2 class="mt-3">Добавление товаров</h2>
+    <form method="post" asp-controller="Product" asp-action="Create" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly"></div>
+    <div>
+        <label>Название продукта: </label><br />
+            <input name="Name" class="form-control" />
+        <span asp-validation-for="Model2.Name"></span>
+    </div>
+    <div>
+        <label>Описание</label><br />
+            <input name="Description" class="form-control" />
+        <span asp-validation-for="Model2.Description"></span>
+    </div>
+    <div>
+        <label>Цена</label><br />
+            <input name="Price" class="form-control" />
+        <span asp-validation-for="Model2.Price"></span>
+    </div>
+    <div>
+        <label>Изображение</label><br />
+            <input class="form-control" asp-for="@Model.Model2.ProductImage" name="ProductImage" type="file" />
+        <span asp-validation-for="Model2.ProductImage"></span>
+    </div>
+    <div>
+        <label>Категория</label>
+            <select class="form-control" name="ProductCategoryId">
+            <option value="">Выберите категорию</option>
+            @foreach(var item in Model.Model1.CategoryList){
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <div>
+        <input type="submit" class="btn btn-primary mt-2" value="Добавить" />
+    </div>
+</form>
+</div>

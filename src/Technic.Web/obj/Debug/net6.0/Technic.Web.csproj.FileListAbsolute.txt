@@ -1,0 +1,268 @@
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.staticwebassets.runtime.json
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.exe
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.deps.json
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.runtimeconfig.json
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.pdb
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.AssemblyReference.cache
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.AssemblyInfoInputs.cache
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.AssemblyInfo.cs
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.CoreCompileInputs.cache
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.RazorAssemblyInfo.cache
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.RazorAssemblyInfo.cs
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\scopedcss\bundle\Technic.Web.styles.css
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\scopedcss\projectbundle\Technic.Web.bundle.scp.css
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.CopyComplete
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\refint\Technic.Web.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.pdb
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.genruntimeconfig.cache
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\obj\Debug\net6.0\ref\Technic.Web.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\stebl\source\repos\Technic\src\Technic.Web\bin\Debug\net6.0\SlugGenerator.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.staticwebassets.runtime.json
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.exe
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.deps.json
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.runtimeconfig.json
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.pdb
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\SlugGenerator.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.AssemblyReference.cache
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.AssemblyInfoInputs.cache
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.AssemblyInfo.cs
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.CoreCompileInputs.cache
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.RazorAssemblyInfo.cache
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.RazorAssemblyInfo.cs
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\scopedcss\bundle\Technic.Web.styles.css
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\scopedcss\projectbundle\Technic.Web.bundle.scp.css
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.CopyComplete
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\refint\Technic.Web.dll
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.pdb
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.genruntimeconfig.cache
+C:\Users\stebl\OneDrive\Рабочий стол\Тямин Н\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\ref\Technic.Web.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.staticwebassets.runtime.json
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.exe
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.deps.json
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.runtimeconfig.json
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Technic.Web.pdb
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\SlugGenerator.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.AssemblyReference.cache
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.AssemblyInfoInputs.cache
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.AssemblyInfo.cs
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.RazorAssemblyInfo.cache
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.RazorAssemblyInfo.cs
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\scopedcss\bundle\Technic.Web.styles.css
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\scopedcss\projectbundle\Technic.Web.bundle.scp.css
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.CopyComplete
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\refint\Technic.Web.dll
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.pdb
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\Technic.Web.genruntimeconfig.cache
+C:\Users\Егор\Downloads\1_Prakticheskaya_chast\1. Практическая часть\Technic\src\Technic.Web\obj\Debug\net6.0\ref\Technic.Web.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Technic.Web.staticwebassets.runtime.json
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Technic.Web.exe
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Technic.Web.deps.json
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Technic.Web.runtimeconfig.json
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Technic.Web.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Technic.Web.pdb
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\SlugGenerator.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.RazorAssemblyInfo.cache
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.RazorAssemblyInfo.cs
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\scopedcss\bundle\Technic.Web.styles.css
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\scopedcss\projectbundle\Technic.Web.bundle.scp.css
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.csproj.CopyComplete
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\refint\Technic.Web.dll
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.pdb
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\Technic.Web.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Ucheba\АОАОАОАОАОАО\1. Исходный код приложения\src\Technic.Web\obj\Debug\net6.0\ref\Technic.Web.dll

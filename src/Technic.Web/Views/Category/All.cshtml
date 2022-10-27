@@ -1,0 +1,39 @@
+﻿@using Technic.Web.Models.Categories
+
+@model CategoryListViewModel;
+
+@{
+    ViewData["Title"] = "Категории | Интернет-магазин Technic";
+}
+
+<section class="container">
+    <div class="row">
+    @for (var i = 0; i < Model.CategoryList.Count; i += 2)
+        {
+        <div class="col-lg-6">
+            <div class="row">
+                @{
+                    int count = i + 1;
+                }
+                @for (var j = i; j <= count && j < Model.CategoryList.Count; j++)
+                {
+                    <div class="col-md-6">
+                        <form method="get" asp-action="Show" asp-controller="Category" asp-route-slug="@Model.CategoryList[j].Slug">
+                        <button class="w-100" style="padding: 0; border: none; font: inherit; color: inherit; background-color: transparent;">
+                        <div class="catalog-card text-center">
+                            <div class="catalog-img-wrap">
+                                <div class="catalog-img">
+                                    <img src="/img/@(Model.CategoryList[j].Slug).png" alt="">
+                                </div>
+                            </div>
+                            <span>@Model.CategoryList[j].Name</span> 
+                        </div>
+                        </button>
+                        </form>
+                    </div>      
+                }
+            </div>
+        </div>
+    }
+    </div>
+</section>
